@@ -1,1 +1,1 @@
-# promoG-modulo2-PairprogrammingQueriesB-sicas-LauraMora
+# promoG-modulo2-PairprogrammingQueriesBasicas-LauraMora
